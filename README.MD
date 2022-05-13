@@ -1,4 +1,5 @@
 ﻿#Interview
+https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/
 Data Structure - LLDs - ( 1 Week )
 List of data structures
 
